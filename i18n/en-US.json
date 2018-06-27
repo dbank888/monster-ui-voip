@@ -1,16 +1,16 @@
 {
-	"callerId": "Caller-ID",
+	"callerId": "主叫号码",
 	"e911": "E911",
 	"failover": "Failover",
 
 	"menuTitles": {
 		"myOffice": "Dashboard",
-		"users": "Users",
-		"groups": "Groups",
-		"numbers": "Numbers",
-		"devices": "Devices",
-		"mainNumber": "Main Number",
-		"callLogs": "Call Logs",
+		"users": "用户",
+		"groups": "用户组",
+		"numbers": "号码",
+		"devices": "设备",
+		"mainNumber": "主号码",
+		"callLogs": "呼叫记录",
 		"quickLinks": "Help Topics",
 		"featureCodes": "Feature Codes",
 		"__comment": "UI-1220: Added VMBox module",
