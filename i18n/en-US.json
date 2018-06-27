@@ -1,17 +1,17 @@
 {
 	"callerId": "主叫号码",
 	"e911": "E911",
-	"failover": "Failover",
+	"failover": "故障转移",
 
 	"menuTitles": {
-		"myOffice": "Dashboard",
+		"myOffice": "仪表盘",
 		"users": "用户",
 		"groups": "用户组",
 		"numbers": "号码",
 		"devices": "设备",
 		"mainNumber": "主号码",
 		"callLogs": "呼叫记录",
-		"quickLinks": "Help Topics",
+		"quickLinks": "帮助主题",
 		"featureCodes": "Feature Codes",
 		"__comment": "UI-1220: Added VMBox module",
 		"__version": "3.19",
